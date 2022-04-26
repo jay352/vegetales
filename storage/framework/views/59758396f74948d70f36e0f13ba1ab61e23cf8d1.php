@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\vegetales\resources\views//admin/prod-manage.blade.php ENDPATH**/ ?>
